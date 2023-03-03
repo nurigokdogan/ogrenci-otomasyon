@@ -1,12 +1,3 @@
-/*---------------------------------------------------------------------
-Program:	aksis1.php
-Konusu:		BMG dersi mysql ile aksis hazırlama
-Programcı:	Nuri Gökdoğan, nurigokdogan@ogr.iu.edu.tr
-Numara:		1306170084
-Dili:		PHP 7
-Tarih:		19.12.2018
-Kurum:		İstanbul Üniversitesi
-----------------------------------------------------------------------*/
 <html>
 <head></head>
 <body>
